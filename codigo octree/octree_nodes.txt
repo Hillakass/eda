@@ -1,0 +1,8 @@
+Nodos Hojas0: BottomLeft(0, 0, 0), h = 0.5
+Nodos Hojas1: BottomLeft(0.5, 0, 0), h = 0.5
+Nodos Hojas2: BottomLeft(0, 0.5, 0), h = 0.5
+Nodos Hojas3: BottomLeft(0.5, 0.5, 0), h = 0.5
+Nodos Hojas4: BottomLeft(0, 0, 0.5), h = 0.5
+Nodos Hojas5: BottomLeft(0.5, 0, 0.5), h = 0.5
+Nodos Hojas6: BottomLeft(0, 0.5, 0.5), h = 0.5
+Nodos Hojas7: BottomLeft(0.5, 0.5, 0.5), h = 0.5
